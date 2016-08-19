@@ -1,0 +1,7 @@
+
+.gitignore
+.idea/
+Spring_ripper.iml
+lib/
+src/test/
+target/
