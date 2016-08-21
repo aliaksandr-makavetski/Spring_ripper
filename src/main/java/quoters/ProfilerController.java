@@ -1,7 +1,7 @@
 package quoters;
 
 public class ProfilerController implements ProfilerControllerMBean{
-    private boolean enabled;
+    private boolean enabled = true;
 
     public boolean isEnabled() {
         return enabled;
